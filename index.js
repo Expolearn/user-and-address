@@ -1,5 +1,6 @@
 // Define a user and use all the details and define an address as an object with proprties such as street number, suburb, city, Country using OOP.
 // Display each detail on the console or table format.
+//we created it together on replit
 
 class User {
    constructor(name, surname, age, gender,){
